@@ -4,6 +4,7 @@
  * - data-log - Assigns a function handler to Pusher.log which outputs all calls to `window.console.log`
  *              and appends the messages to an element with and id of `pusher_debug` or the the end of
  *              the document.body.
+ *
  */
 ( function( window ) {
   
